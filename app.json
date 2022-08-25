@@ -1,13 +1,13 @@
 {
-  "name": "YT Downloader Bot",
+  "name": "⚡️⚡️YT Downloader Bot⚡️⚡️",
   "description": "A telegram bot To Download Youtube Files ",
   "logo": "https://telegra.ph/file/3db812d9dcf60ab1a5997.jpg",
   "keywords": [
     "Youtube","YTDownloader"
   ],
-  "repository": "https://github.com/SAmkazx/YTdown",
-  "success_url": "https://github.com/SAmkazx/YTdown",
-  "website": "https://github.com/SAmkazx/YTdown",
+  "repository": "https://github.com/SAmkazx/YTdownload",
+  "success_url": "https://github.com/SAmkazx/YTdownload",
+  "website": "https://github.com/SAmkazx/YTdownload",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
